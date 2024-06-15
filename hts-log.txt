@@ -1,0 +1,130 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Jun 2024 21:47:54 at https://www.baincapital.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0K4H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://www.baincapital.com/ -O1 "C:\My Websites\贝恩资本" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:47:55	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.baincapital.com/
+21:48:03	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/baincapital/assets/ico/apple-touch-icon-144-precomposed.png: No such file or directory
+21:48:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 5616 got 0): https://www.baincapital.com/sites/all/themes/baincapital/assets/ico/apple-touch-icon-144-precomposed.png
+21:48:03	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.minfac2.js: No such file or directory
+21:48:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 33760 got 0): https://www.baincapital.com/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js?v=1.12.4
+21:48:04	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/misc/jquery-extend-3.4.0fac2.js: No such file or directory
+21:48:05	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/modules/jquery_update/js/jquery_browser241d.js: No such file or directory
+21:48:06	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/modules/eu_cookie_compliance/js/jquery.cookie-1.4.1.min290d.js: No such file or directory
+21:48:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 697 got 0): https://www.baincapital.com/sites/all/modules/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1
+21:48:06	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/modules/themekey/themekey_redirect/themekey_redirectb0ab.js: No such file or directory
+21:48:08	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/baincapital/assets/js/modernizr-customb0ab.js: No such file or directory
+21:48:09	Error: 	Unable to save file C:/My Websites/贝恩资本/www.google-analytics.com/analytics.js: No such file or directory
+21:48:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 20994 got 0): https://www.google-analytics.com/analytics.js
+21:48:46	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/6aac8896f227/main.js: No such file or directory
+21:48:46	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?sezcv1 (from https://www.baincapital.com/)
+21:48:46	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?sezcv1 (from https://www.baincapital.com/)
+21:48:46	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/default/files/ctools/css/8695a9d3e23511e74e4cde79b7ae1666.css?sezcv1 (from https://www.baincapital.com/)
+21:48:46	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/css/bootstrap.min.css?sezcv1 (from https://www.baincapital.com/)
+21:49:37	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/search-ico.png: No such file or directory
+21:49:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 289 got 0): https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/search-ico.png
+21:49:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5616 expected)) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/ico/apple-touch-icon-144-precomposed.png (from https://www.baincapital.com/)
+21:49:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 33760 expected)) at link https://www.baincapital.com/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js?v=1.12.4 (from https://www.baincapital.com/)
+21:49:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 697 expected)) at link https://www.baincapital.com/sites/all/modules/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1 (from https://www.baincapital.com/)
+21:49:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 20994 expected)) at link https://www.google-analytics.com/analytics.js (from https://www.baincapital.com/)
+21:49:52	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.baincapital.com/)
+21:49:56	Error: 	Unable to save file C:/My Websites/贝恩资本/s7.addthis.com/js/300/addthis_widget.js: No such file or directory
+21:49:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 76 got 0): https://s7.addthis.com/js/300/addthis_widget.js
+21:50:01	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/default/files/timeline/slide1.png: No such file or directory
+21:50:22	Warning: 	Moved Permanently for www.baincapital.com/robots.txt
+21:50:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.baincapital.com/robots.txt and https://www.baincapital.com/robots.txt
+21:50:22	Warning: 	Warning moved treated for www.baincapital.com/robots.txt (real one is https://www.baincapital.com/robots.txt)
+21:50:22	Warning: 	Moved Permanently for www.baincapital.com/businesses/ventures/
+21:50:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.baincapital.com/businesses/ventures/ and https://www.baincapital.com/businesses/ventures/
+21:50:22	Warning: 	File has moved from www.baincapital.com/businesses/ventures/ to https://www.baincapital.com/businesses/ventures/
+21:50:26	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/ico/apple-touch-icon-144-precomposed.png: No such file or directory
+21:50:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 5616 got 0): https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/ico/apple-touch-icon-144-precomposed.png
+21:50:28	Error: 	Unable to save file C:/My Websites/贝恩资本/cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js: No such file or directory
+21:50:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 4501 got 0): https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
+21:50:35	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/cvstatictheme/js/jquery.js: No such file or directory
+21:50:35	Error: 	Unable to save file C:/My Websites/贝恩资本/cdn.jsdelivr.net/npm/gsap@3.6.0/dist/gsap.min.js: No such file or directory
+21:50:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 24552 got 0): https://cdn.jsdelivr.net/npm/gsap@3.6.0/dist/gsap.min.js
+21:50:45	Error: 	Unable to save file C:/My Websites/贝恩资本/cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/ScrollTrigger.min.js: No such file or directory
+21:50:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 7337 got 0): https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/ScrollTrigger.min.js
+21:51:11	Warning: 	Moved Permanently for www.baincapital.com/esgandimpact/
+21:51:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.baincapital.com/esgandimpact/ and https://www.baincapital.com/esgandimpact/
+21:51:11	Warning: 	File has moved from www.baincapital.com/esgandimpact/ to https://www.baincapital.com/esgandimpact/
+21:51:20	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bain-capital-logo-pride.svg (from https://www.baincapital.com/)
+21:51:23	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/esgandimpact/images/ico/apple-touch-icon-144-precomposed.png: No such file or directory
+21:51:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 5616 got 0): https://www.baincapital.com/esgandimpact/images/ico/apple-touch-icon-144-precomposed.png
+21:51:31	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/esgandimpact/js/jquery.js: No such file or directory
+21:52:15	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/technology/ (from https://www.baincapital.com/)
+21:52:15	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/healthcare/ (from https://www.baincapital.com/)
+21:52:15	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/news/powerschool-be-acquired-bain-capital-56-billion-transaction (from https://www.baincapital.com/)
+21:52:29	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/citizenship/community (from https://www.baincapital.com/)
+21:52:29	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/citizenship/community/support-ukraine (from https://www.baincapital.com/)
+21:52:38	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/fonts/fssilassansweb-regular-webfont.svg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/web37.css)
+21:52:42	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 289 expected)) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/search-ico.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/plus-icon.svg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/close-icon.svg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/minusIcon.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/plusIcon.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/arrow-circle.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/shape1.jpg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/shape3.jpg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/shape4.jpg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/shape2.jpg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/bc-private-equity/shape5.jpg (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/private-equity22.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/prev-ico.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/timeline-swiper-slider-bg.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/next-ico.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/timeline-swiper-slider-bg.css)
+21:52:42	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/baincapital/assets/images/divider-top.png (from https://www.baincapital.com/sites/all/themes/baincapital/assets/css/timeline-swiper-slider-bg.css)
+21:52:42	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 76 expected)) at link https://s7.addthis.com/js/300/addthis_widget.js (from https://www.baincapital.com/about-us)
+21:52:44	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/ico/apple-touch-icon-144-precomposed.png: No such file or directory
+21:52:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 5616 got 0): https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/ico/apple-touch-icon-144-precomposed.png
+21:52:51	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/css/bootstrap.min.css (from https://www.baincapital.com/businesses/crypto)
+21:52:52	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/sites/all/themes/cvstatictheme/fonts/fontawesome-webfont3e6e.eot: No such file or directory
+21:52:58	Error: 	"Error when decompressing" (-1) at link https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css (from https://www.baincapital.com/businesses/crypto)
+21:52:58	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/css/crypto/style.css (from https://www.baincapital.com/businesses/crypto)
+21:53:02	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5616 expected)) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/ico/apple-touch-icon-144-precomposed.png (from https://www.baincapital.com/businesses/crypto)
+21:53:02	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4501 expected)) at link https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js (from https://www.baincapital.com/businesses/crypto)
+21:53:02	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/new/bc-white-logo.svg (from https://www.baincapital.com/businesses/crypto)
+21:53:02	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/crypto/bc-crypto-logo.svg (from https://www.baincapital.com/businesses/crypto)
+21:53:09	Warning: 	Moved Permanently for https://www.baincapital.com/businesses/real-estate/
+21:53:09	Warning: 	File has moved from https://www.baincapital.com/businesses/real-estate/ to https://www.baincapitalrealestate.com/
+21:53:09	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 24552 expected)) at link https://cdn.jsdelivr.net/npm/gsap@3.6.0/dist/gsap.min.js (from https://www.baincapital.com/businesses/crypto)
+21:53:09	Error: 	"Error when decompressing" (-1) at link https://cdn.amcharts.com/lib/4/core.js (from https://www.baincapital.com/businesses/crypto)
+21:53:09	Error: 	"Error when decompressing" (-1) at link https://cdn.amcharts.com/lib/4/geodata/worldLow.js (from https://www.baincapital.com/businesses/crypto)
+21:53:09	Error: 	"Error when decompressing" (-1) at link https://cdn.amcharts.com/lib/4/themes/animated.js (from https://www.baincapital.com/businesses/crypto)
+21:53:09	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 7337 expected)) at link https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/ScrollTrigger.min.js (from https://www.baincapital.com/businesses/crypto)
+21:53:09	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/people/darren-abrahamson (from https://www.baincapital.com/people)
+21:55:24	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/esgandimpact/css/bootstrap.min.css (from https://www.baincapital.com/esgandimpact/active-governance-and-stewardship.html)
+21:55:25	Error: 	Unable to save file C:/My Websites/贝恩资本/www.baincapital.com/esgandimpact/fonts/fontawesome-webfont3e6e.eot: No such file or directory
+21:56:42	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5616 expected)) at link https://www.baincapital.com/esgandimpact/images/ico/apple-touch-icon-144-precomposed.png (from https://www.baincapital.com/esgandimpact/active-governance-and-stewardship.html)
+21:56:42	Warning: 	Link https://www.baincapital.com/esgandimpact/more-menu.html not scanned (follow robots meta tag)
+21:56:42	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/esgandimpact/case-studies-23/esure.html (from https://www.baincapital.com/esgandimpact/active-governance-and-stewardship.html)
+21:58:14	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/covidresponse/ (from https://www.baincapital.com/esgandimpact/community-engagement.html)
+21:58:17	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/esgandimpact/images/esg-landing-page/logos/boston-childrens-hospital.svg (from https://www.baincapital.com/esgandimpact/community-engagement.html)
+21:58:26	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/css/ventures/style.css (from https://www.baincapital.com/businesses/ventures)
+21:58:29	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5616 expected)) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/ico/apple-touch-icon-144-precomposed.png (from https://www.baincapital.com/businesses/ventures)
+21:58:29	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/new/bc-white-logo.svg (from https://www.baincapital.com/businesses/ventures)
+21:58:29	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/ventures/bc-ventures-logo.svg (from https://www.baincapital.com/businesses/ventures)
+21:58:29	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/portfolio-gradient-image.jpg (from https://www.baincapital.com/sites/all/themes/cvstatictheme/css/crypto/custom.css)
+21:58:29	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/our-people-gradient-image.jpg (from https://www.baincapital.com/sites/all/themes/cvstatictheme/css/crypto/custom.css)
+21:58:29	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/crypto/esg-landing-page/esg-slider-button-arrow-new.png (from https://www.baincapital.com/sites/all/themes/cvstatictheme/css/crypto/custom.css)
+22:00:20	Error: 	"Not Found" (404) at link https://www.baincapital.com/esgandimpact/images/portfolio-gradient-image.jpg (from https://www.baincapital.com/esgandimpact/css/custom5.css)
+22:00:20	Error: 	"Not Found" (404) at link https://www.baincapital.com/esgandimpact/images/our-people-gradient-image.jpg (from https://www.baincapital.com/esgandimpact/css/custom5.css)
+22:00:20	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/esgandimpact/case-studies-23/css/noscript.css (from https://www.baincapital.com/esgandimpact/case-studies-23/cotopaxi.html)
+22:00:20	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/esgandimpact/images/2023/logos/cotopaxi-w.svg (from https://www.baincapital.com/esgandimpact/case-studies-23/cotopaxi.html)
+22:00:22	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/portfolio-gradient-image.jpg (from https://www.baincapital.com/sites/all/themes/cvstatictheme/css/ventures/custom3.css)
+22:00:22	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/our-people-gradient-image.jpg (from https://www.baincapital.com/sites/all/themes/cvstatictheme/css/ventures/custom3.css)
+22:00:22	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/sites/all/themes/cvstatictheme/images/ventures/esg-landing-page/esg-slider-button-arrow-new.png (from https://www.baincapital.com/sites/all/themes/cvstatictheme/css/ventures/custom3.css)
+22:00:50	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/EDESCI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png (from https://www.baincapital.com/news/leading-aviation-supplier-kp-aviation-secures-growth-investment-bain-capital-special-situations)
+22:00:50	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/EDESCI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png (from https://www.baincapital.com/news/leading-aviation-supplier-kp-aviation-secures-growth-investment-bain-capital-special-situations)
+22:00:51	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/businesses/real-estate. (from https://www.baincapital.com/news/catalyst-healthcare-real-estate-and-bain-capital-real-estate-break-ground-60000-square-foot)
+22:00:51	Error: 	"Error when decompressing" (-1) at link https://www.baincapital.com/businesses/real-estatehttps://www.baincapital.com/businesses/real-estate (from https://www.baincapital.com/news/bain-capital-real-estate-and-capitol-seniors-housing-acquire-210-unit-active-adult-community)
+22:00:57	Error: 	"Not Found" (404) at link https://www.baincapital.com/sites/default/files/news/3.2.22 Breather-FreeWill-NYC-322 8th Ave-18Fl_195-sq final sm Edit.jpg (from https://www.baincapital.com/news/freewill-raises-30-million-series-b-transform-nonprofit-fundraising-non-cash-giving)
+22:01:16	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/EDESCI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png (from https://www.baincapital.com/news/leading-aviation-supplier-kp-aviation-secures-growth-investment-bain-capital-special-situations)
+22:01:16	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/EDESCI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png (from https://www.baincapital.com/news/leading-aviation-supplier-kp-aviation-secures-growth-investment-bain-capital-special-situations)
+22:01:32	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/EDESCI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png (from https://www.baincapital.com/news/leading-aviation-supplier-kp-aviation-secures-growth-investment-bain-capital-special-situations)
+22:01:32	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/EDESCI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png (from https://www.baincapital.com/news/leading-aviation-supplier-kp-aviation-secures-growth-investment-bain-capital-special-situations)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 56 seconds : 1234 links scanned, 1157 files written (200186721 bytes overall), 1157 files updated [177162452 bytes received at 211916 bytes/sec], 57997859 bytes transferred using HTTP compression in 809 files, ratio 57%, 16.6 requests per connection
+(78 errors, 41 warnings, 0 messages)

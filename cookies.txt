@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.baincapital.com	TRUE	/	FALSE	1999999999	__cf_bm	BPjkhp2i8Bogb71DrBTw6M6hgxZUk6In5qivm.wZ1Ws-1718462815-1.0.1.1-uw7oBGGexMcG2.O2OFTldn.6EbLSsgws_waE0PX.cbhswCOqrNLFkBUnvgaM4P6WdETW7bZCtPnCLF3SMOYhUQ
+.www.baincapital.com	TRUE	/	FALSE	1999999999	SSESS875ef7eccd717facc06cb651ff5f5fd5	kfr-PzMoJFL-D8D0oScJChVnoCcRBfeGBGNwIzDN1Q8
+
